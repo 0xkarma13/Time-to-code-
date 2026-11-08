@@ -1,3 +1,10 @@
-# Time-to-code-
-make simple , Medium or hard python and c code or Anything, Maybe in the future things like HTML, CSS , JS , ASEMBY or etc    let's  enjoy
-to improve my coding skill
+# Time-to-code
+
+A personal playground where I write simple, medium, and hard programs in **Python** and **C** (and anything else I feel like) to sharpen my coding skills.
+
+Maybe in the future I'll add things like HTML, CSS, JavaScript, and Assembly too. Let's enjoy improving.
+
+## Structure
+
+- `C/` – programs written in C
+- `Python/` – programs written in Python
