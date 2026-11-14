@@ -8,3 +8,5 @@ Maybe in the future I'll add things like HTML, CSS, JavaScript, and Assembly too
 
 - `C/` – programs written in C
 - `Python/` – programs written in Python
+- `Assembly`- simple programs written in Assembly
+
